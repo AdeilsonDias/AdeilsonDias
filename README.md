@@ -1,6 +1,6 @@
 # 👩🏻‍💻 AdeilsonDias
 
-**`Desenvolvedora Front-end`**
+**`Desenvolvedor Front-end`**
 
 Me chamo Adeilson Dias, tenho 22 anos e sou natural de Minas Gerais (atualmente moro em São Paulo).Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Fasul Educacional. Sou apaixonado por tecnologia e minha jornada na tecnologia vem sendo marcada por muita prática, projetos reais, estudo disciplinado e paixão pelo que faço. Estou sempre em busca de aprender algo novo e contribuir com soluções que realmente façam a diferença.
 
