@@ -5,72 +5,11 @@ Me chamo Adeilson Dias, tenho 23 anos, sou natural de Minas Gerais e atualmente 
 
 
 
-### 🤖 Linguagens e Tecnologias
+### 🛠️ Linguagens e Tecnologias
 
-<img 
-    align="left" 
-    alt="Excel"
-    title="Excel" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" 
-/>
-
-<img 
-    align="left" 
-    alt="Excel"
-    title="Excel" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Excel-Light.svg" 
-/>
-
-<img 
-    align="left" 
-    alt="SQL" 
-    title="SQL"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" 
-/>
-
-<img 
-    align="left" 
-    alt="Power BI" 
-    title="Power BI"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PowerBI-Light.svg" 
-/>
-
-<img 
-    align="left" 
-    alt="Python"
-    title="Python" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
-
-### 📊 Estatísticas de Análise de Dados
-
-<p>
-  
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="190" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=AdeilsonDias&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&count_private=true" 
-  />
-
-  
-  <img 
-    align="left" 
-    alt="Top Techs" 
-    height="190" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdeilsonDias&theme=tokyonight&layout=compact&custom_title=Linguagens_e_Dados&langs_count=6&hide=html,css,javascript" 
-  />
-</p>
-
-<br clear="left" />
+<div align="left">
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel" />
+  <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" alt="Power BI" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+</div>
