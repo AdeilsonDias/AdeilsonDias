@@ -1,9 +1,7 @@
 # 👩🏻‍💻 AdeilsonDias
 
-**`Desenvolvedor Front-end`**
-
-Me chamo Adeilson Dias, tenho 22 anos e sou natural de Minas Gerais (atualmente moro em São Paulo).Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Fasul Educacional. Sou apaixonado por tecnologia e minha jornada na tecnologia vem sendo marcada por muita prática, projetos reais, estudo disciplinado e paixão pelo que faço. Estou sempre em busca de aprender algo novo e contribuir com soluções que realmente façam a diferença.
-
+**`ANALISTA DE DADOS `**
+Me chamo Adeilson Dias, tenho 23 anos, sou natural de Minas Gerais e atualmente moro em São Paulo. Estou cursando Análise e Desenvolvimento de Sistemas pela Anhanguera (EAD) e venho direcionando minha carreira para a área de dados. Tenho desenvolvido minha base em análise de dados por meio de prática constante, projetos aplicados e estudo disciplinado, com foco em SQL, manipulação de dados e geração de insights a partir de contextos de negócio. Busco entender não só os dados, mas o problema por trás deles, usando a informação para apoiar a tomada de decisão. Mantenho uma rotina contínua de aprendizado, sempre buscando evoluir tecnicamente e contribuir com soluções que gerem resultado.
 
 
 
@@ -11,82 +9,68 @@ Me chamo Adeilson Dias, tenho 22 anos e sou natural de Minas Gerais (atualmente 
 
 <img 
     align="left" 
-    alt="HTML"
-    title="HTML" 
+    alt="Excel"
+    title="Excel" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="React"
-    title="React" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" 
 />
 
 <img 
     align="left" 
-    alt="Bootstrap"
-    title="Bootstrap" 
+    alt="Excel"
+    title="Excel" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Tailwind" 
-    title="Tailwind"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
+    src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Excel-Light.svg" 
 />
 
 <img 
     align="left" 
-    alt="Git" 
-    title="Git"
+    alt="SQL" 
+    title="SQL"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" 
 />
 
-<br/>
-<br/>
+<img 
+    align="left" 
+    alt="Power BI" 
+    title="Power BI"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PowerBI-Light.svg" 
+/>
 
-### 📊 Estatísticas
+<img 
+    align="left" 
+    alt="Python"
+    title="Python" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
+
+### 📊 Estatísticas de Análise de Dados
 
 <p>
+  
   <img 
     align="left" 
     alt="GitHub Stats" 
-    height="200" 
+    height="190" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=AdeilsonDias&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=AdeilsonDias&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&count_private=true" 
   />
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdeilsonDias&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  
+  <img 
+    align="left" 
+    alt="Top Techs" 
+    height="190" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdeilsonDias&theme=tokyonight&layout=compact&custom_title=Linguagens_e_Dados&langs_count=6&hide=html,css,javascript" 
   />
-
 </p>
+
+<br clear="left" />
